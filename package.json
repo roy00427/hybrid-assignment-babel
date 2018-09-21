@@ -1,0 +1,19 @@
+{
+  "name": "hybrid-assignment-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Protima Roy",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
